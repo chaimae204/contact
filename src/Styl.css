@@ -1,0 +1,40 @@
+
+#idinput{
+    padding: 5px;
+    width: 280px;
+    min-width: 100%;
+    left: 40px;
+    position:center;
+}
+
+
+#body{
+    padding: 24px;
+    background-color: #f9f5fc;
+}
+/*.link{
+    background-color: pink;
+    color: white;
+    padding: 6px 12px;
+    bottom: 5%;
+    width: px;
+    right: 90px;
+}
+#image{
+    padding: 5px;
+    width: 180px;
+  
+}
+#option{
+    color: rgb(51, 248, 248);
+}
+
+}
+/*.iptajt{
+    font-size: 24px;
+    margin-left:8px ;
+    borderBottom: '1px solid #e3e3e3 ';
+    padding: 6px;
+    flex-grow: 1;
+
+}
